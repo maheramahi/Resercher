@@ -1,2 +1,2 @@
-# Resercher
+# Researcher
 Researcher Description
